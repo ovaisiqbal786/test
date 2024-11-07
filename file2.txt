@@ -1,0 +1,2 @@
+Hadoop is an open-source software framework that helps organizations store and
+process very large amounts of data. It was created to solve the problems
